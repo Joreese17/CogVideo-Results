@@ -68,22 +68,56 @@ This project demonstrates how **domain-specific fine-tuning** of generative AI m
 ### Installation:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cogvideo-disney-finetuning.git
-   cd cogvideo-disney-finetuning
+   git clone https://github.com/THUDM/CogVideo
+   cd CogVideo
    ```
    
-2. **Install dependencies**:
+2. **Load Required Modules**:
+   ```bash
+   module load mamba
+   module load cuda-11.8.0-gcc-12.1.0
+   ```
+
+3. **Set Up Cache Directories**:
+   - Replace `{your profile}` and `{your_dir}` with your actual profile and directory.
+
+   ```bash
+   export HF_HOME=/scratch/{your profile}/{your_dir}/cache
+   export TMPDIR=/scratch/{your profile}/{your_dir}/cache
+   export TRITON_CACHE_DIR=/scratch/{your profile}/{your_dir}/cache
+   ```
+  
+4. **Create and activate a Conda environment**:
+   ```bash
+   mamba create -n CogEnv -c conda-forge
+   source activate CogEnv
+   ```
+
+5. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure multi-GPU settings**:
-    - Update accelerate_config.yaml for your system.
-  
-4. **Start fine-tuning**:
+6. **Set up the fine-tuning environment**:
    ```bash
-   python finetune/train_cogvideox_lora.py
+   cd finetune
+   git clone https://github.com/huggingface/diffusers.git
+   cd diffusers
+   pip install -e .
    ```
+
+7. **Login to Hugging Face**:
+   - Login to Hugging Face & Download the Disney Video Generation Dataset: Replace video-dataset-disney with your preferred local directory name.
+   ```bash
+   huggingface-cli login
+   huggingface-cli download --repo-type dataset Wild-Heart/Disney-VideoGeneration-Dataset --local-dir video-dataset-disney
+   ```
+
+8. **Modify the `accelerate_config_machine_single.yaml` File**:
+   - Edit the `num_processes` value to match the number of GPUs available on your system (start with 1 if unsure).
+
+9. **Verify Dataset File Names**:
+   - Ensure the dataset file names match those referenced in the arguments of the `finetune_single_rank.sh` script.
 
 ---
 
