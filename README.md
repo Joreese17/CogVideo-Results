@@ -41,7 +41,7 @@ This project demonstrates how **domain-specific fine-tuning** of generative AI m
 [BeforeFinetuneBMM]()
 ## Mickey Mouse Basic Prompt Results After Fine-tuning
 [BeforeFinetune50MMit]()
-![After Finetuning (10 Iterations)](https://github.com/user-attachments/assets/1f3914e7-d392-48f8-9f00-87b65194d784)
+[After Finetuning (10 Iterations)](https://github.com/user-attachments/assets/1f3914e7-d392-48f8-9f00-87b65194d784)
 ## Panda Detailed Prompt Results Before Fine-tuning
 [BeforeFinetuneDP]()
 ## Panda Detailed Prompt Results After Fine-tuning
