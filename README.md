@@ -32,6 +32,31 @@ This project demonstrates how **domain-specific fine-tuning** of generative AI m
 
 ---
 
+## Mickey Mouse Results Detailed Prompt Before Fine-tuning
+[BeforeFinetuneDMM]()
+## Mickey Mouse Detailed Prompt Results After Fine-tuning
+[AfterFinetuneD100MMIt]()
+[AfterFinetuneD50MMIt]()
+## Mickey Mouse Basic Prompt Results Before Fine-tuning
+[BeforeFinetuneBMM]()
+## Mickey Mouse Basic Prompt Results After Fine-tuning
+[BeforeFinetune50MMit]()
+[BeforeFinetune10MMit](BasicPrompt-Mickey-10-Iterations.mp4)
+## Panda Detailed Prompt Results Before Fine-tuning
+[BeforeFinetuneDP]()
+## Panda Detailed Prompt Results After Fine-tuning
+[AfterFinetuneD100PIt]()
+[AfterFinetuneD50PIt]()
+## Panda Basic Prompt Results Before Fine-tuning
+[BeforeFinetuneBP]()
+## Panda Basic Prompt Results After Fine-tuning
+[BeforeFinetune50Pit]()
+[BeforeFinetune10Pit]()
+
+
+
+ 
+
 ## 📊 **Baseline vs. Fine-Tuned Results**
 
 | Metric                 | Baseline CogVideo          | Fine-Tuned CogVideo      |
