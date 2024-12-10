@@ -43,23 +43,28 @@ A panda playing a guitar sitting on a stool in a bamboo forest to baby pandas
 ## Mickey Mouse Results Detailed Prompt Before Fine-tuning
 [Before Finetuning](https://github.com/user-attachments/assets/88f87bfb-8f0a-4f23-8edc-eeb312ff3497)
 ## Mickey Mouse Detailed Prompt Results After Fine-tuning
-[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/25ba047b-1391-44f3-9c17-25de84f922e0)<br>
+[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/25ba047b-1391-44f3-9c17-25de84f922e0)
+
 [After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/5a256f47-87e9-48f5-b6bb-ed1a1c8fcf71)
 ## Mickey Mouse Basic Prompt Results Before Fine-tuning
 [Before Finetuning](https://github.com/user-attachments/assets/e2d0eaa4-eb22-458c-96cc-c13c46979d99)
 ## Mickey Mouse Basic Prompt Results After Fine-tuning
-[After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/814a5e4b-c700-4741-90f8-ccbabad257ea)<br>
+[After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/814a5e4b-c700-4741-90f8-ccbabad257ea)
+
 [After Finetuning (10 Iterations)](https://github.com/user-attachments/assets/1f3914e7-d392-48f8-9f00-87b65194d784)
 ## Panda Detailed Prompt Results Before Fine-tuning
 [Before Finetuning](https://github.com/user-attachments/assets/81d74160-f92f-4ca5-861c-103f1e0c3ddb)
+
 ## Panda Detailed Prompt Results After Fine-tuning
-[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/18499591-78a4-418f-84d1-f828b92830b)<br>
+[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/18499591-78a4-418f-84d1-f828b92830b)
+
 [After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/17ec9cc9-3276-4072-9a59-d12c41ca6722)
 ## Panda Basic Prompt Results Before Fine-tuning
 [Before Finetuning](https://github.com/user-attachments/assets/d6ceea78-e5ee-49e2-9ded-7e24c816d0bb)
 ## Panda Basic Prompt Results After Fine-tuning
-[After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/6a4d6dd1-a8cb-4bae-9ed8-1456459c94d9)<br>
-[[After Finetuning (10 Iterations)](https://github.com/user-attachments/assets/a0440fbe-b823-4b4a-8eee-18b0a46938d1)
+[After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/6a4d6dd1-a8cb-4bae-9ed8-1456459c94d9)
+
+[After Finetuning (10 Iterations)](https://github.com/user-attachments/assets/a0440fbe-b823-4b4a-8eee-18b0a46938d1)
 
 
 
