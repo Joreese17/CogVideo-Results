@@ -56,7 +56,7 @@ A panda playing a guitar sitting on a stool in a bamboo forest to baby pandas
 [Before Finetuning](https://github.com/user-attachments/assets/81d74160-f92f-4ca5-861c-103f1e0c3ddb)
 
 ## Panda Detailed Prompt Results After Fine-tuning
-[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/18499591-78a4-418f-84d1-f828b92830b)
+[After Finetuning (100 Iterations)](https://github.com/user-attachments/assets/2619f65d-5d60-48ec-aaff-c8ca60322555)
 
 [After Finetuning (50 Iterations)](https://github.com/user-attachments/assets/17ec9cc9-3276-4072-9a59-d12c41ca6722)
 ## Panda Basic Prompt Results Before Fine-tuning
